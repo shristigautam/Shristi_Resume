@@ -1,3 +1,61 @@
 <resources>
-    <string name="app_name">Shristi_Resume</string>
+    <string name="app_name">Resume - Shristi Gautam</string>
+    <string name="hello_blank_fragment">Hello </string>
+
+    <string name="my_name"> Shristi Gautam </string>
+    <string name="job_title"> Mobile Developer </string>
+
+    <!-- About me -->
+    <string name="masters_school"> Maharishi International University </string>
+    <string name="master_skill"> Master in Computer Science </string>
+    <string name="bachelor_school"> Tribhuvan University </string>
+    <string name="bachelor_skill">  Bachelors in Computer Science </string>
+    <string name="about_me"> Experienced Mobile Application Developer with a demonstrated history of working in the information technology and services industry. Skilled in native and cross-platform Mobile Application Development(Android and iOS) using Flutter/Dart, Kotlin, Ionic. Strong engineering professional graduated from Aberdeen International College and studying Masters in Maharishi International University.</string>
+
+    <!-- Work Experience -->
+    <string name="company_1"> Robert Bosch (Oct 2019 - Present) </string>
+    <string name="position_1"> Mobile Developer </string>
+    <string name="project_title_1"> Ford Diagnow </string>
+    <string name="desc_project_1"> Diagnostic App for Ford Vehicles </string>
+
+    <string name="company_2"> Cellapp (April 2017 - Oct 2021) </string>
+    <string name="position_2"> Senior Mobile Developer </string>
+    <string name="project_title_2"> Smartpalika </string>
+    <string name="desc_project_2"> E-governance project for local governments of Nepal </string>
+
+    <string name="company_3"> Webrobo (January 2017 - March 2017) </string>
+    <string name="position_3"> Mobile Development Intern </string>
+    <string name="project_title_3"> Webrobo Mobile App </string>
+    <string name="desc_project_3"> Company official mobile application </string>
+
+    <!-- Contact -->
+    <string name="phone"> +1(641) 819-2198 </string>
+    <string name="email"> theshristigautam@gmail.com </string>
+    <string name="website"> https://www.linkedin.com/in/theshristigautam/ </string>
+    <string name="facebook_profile"> https://www.facebook.com/shristigautam101 </string>
+
+    <!-- Home Page -->
+    <string name="honor_award"> Honor &amp; Award </string>
+    <string name="honor_title"> Scholarship </string>
+    <string name="honor_desc">  </string>
+
+    <string name="experience"> Work Experience </string>
+    <string name="experience_year"> 4+ years </string>
+    <string name="experience_skill"> Flutter | Ionic | Xamarin | Angular7,8 | HTML5 | CSS3 | Bootstrap | REST API </string>
+
+    <string name="blog"> Blog </string>
+    <string name="blog_title"> My Personal Blog </string>
+    <string name="blog_desc">  </string>
+
+    <string name="strength"> Strengths </string>
+    <string name="strength_title"> Personal Strength </string>
+    <string name="strength_desc"> I am a good communicator and get along with people very well. </string>
+
+    <string name="personal">  Contact </string>
+    <string name="personal_title"> Personal Info </string>
+    <string name="personal_desc"> +1(641) 819-2198 | theshristigautam@gmail.com </string>
+
+
+
+
 </resources>

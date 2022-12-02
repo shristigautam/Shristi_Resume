@@ -3,7 +3,35 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Courses/MobileProgramming_CS473/Assignments/Shristi_Resume/app/src/main/res/drawable-v24/aboutme.xml" value="0.1" />
+        <entry key="..\:/Courses/MobileProgramming_CS473/Assignments/Shristi_Resume/app/src/main/res/drawable-v24/home.xml" value="0.1" />
+        <entry key="..\:/Courses/MobileProgramming_CS473/Assignments/Shristi_Resume/app/src/main/res/drawable-v24/ic_baseline_add_24.xml" value="0.1" />
+        <entry key="..\:/Courses/MobileProgramming_CS473/Assignments/Shristi_Resume/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Courses/MobileProgramming_CS473/Assignments/Shristi_Resume/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Courses/MobileProgramming_CS473/Assignments/Shristi_Resume/app/src/main/res/drawable-v24/icon_add_new_skill.xml" value="0.1" />
+        <entry key="..\:/Courses/MobileProgramming_CS473/Assignments/Shristi_Resume/app/src/main/res/drawable-v24/icon_add_skill.xml" value="0.1" />
+        <entry key="..\:/Courses/MobileProgramming_CS473/Assignments/Shristi_Resume/app/src/main/res/drawable-v24/icon_blog.xml" value="0.1" />
+        <entry key="..\:/Courses/MobileProgramming_CS473/Assignments/Shristi_Resume/app/src/main/res/drawable-v24/icon_call.xml" value="0.1" />
+        <entry key="..\:/Courses/MobileProgramming_CS473/Assignments/Shristi_Resume/app/src/main/res/drawable-v24/icon_eduction.xml" value="0.1" />
+        <entry key="..\:/Courses/MobileProgramming_CS473/Assignments/Shristi_Resume/app/src/main/res/drawable-v24/icon_email.xml" value="0.1" />
+        <entry key="..\:/Courses/MobileProgramming_CS473/Assignments/Shristi_Resume/app/src/main/res/drawable-v24/icon_experience.xml" value="0.1" />
+        <entry key="..\:/Courses/MobileProgramming_CS473/Assignments/Shristi_Resume/app/src/main/res/drawable-v24/icon_honor.xml" value="0.1" />
+        <entry key="..\:/Courses/MobileProgramming_CS473/Assignments/Shristi_Resume/app/src/main/res/drawable-v24/icon_mall.xml" value="0.1" />
+        <entry key="..\:/Courses/MobileProgramming_CS473/Assignments/Shristi_Resume/app/src/main/res/drawable-v24/icon_stength.xml" value="0.1" />
+        <entry key="..\:/Courses/MobileProgramming_CS473/Assignments/Shristi_Resume/app/src/main/res/drawable-v24/icon_website.xml" value="0.1" />
+        <entry key="..\:/Courses/MobileProgramming_CS473/Assignments/Shristi_Resume/app/src/main/res/drawable-v24/sample.xml" value="0.1" />
+        <entry key="..\:/Courses/MobileProgramming_CS473/Assignments/Shristi_Resume/app/src/main/res/drawable-v24/work.xml" value="0.1" />
+        <entry key="..\:/Courses/MobileProgramming_CS473/Assignments/Shristi_Resume/app/src/main/res/drawable/home.xml" value="0.1" />
+        <entry key="..\:/Courses/MobileProgramming_CS473/Assignments/Shristi_Resume/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
         <entry key="..\:/Courses/MobileProgramming_CS473/Assignments/Shristi_Resume/app/src/main/res/layout/activity_main.xml" value="0.11277173913043478" />
+        <entry key="..\:/Courses/MobileProgramming_CS473/Assignments/Shristi_Resume/app/src/main/res/layout/add_new_skill_layout.xml" value="0.1" />
+        <entry key="..\:/Courses/MobileProgramming_CS473/Assignments/Shristi_Resume/app/src/main/res/layout/contact.xml" value="0.1" />
+        <entry key="..\:/Courses/MobileProgramming_CS473/Assignments/Shristi_Resume/app/src/main/res/layout/fragment_about_me.xml" value="0.1" />
+        <entry key="..\:/Courses/MobileProgramming_CS473/Assignments/Shristi_Resume/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Courses/MobileProgramming_CS473/Assignments/Shristi_Resume/app/src/main/res/layout/fragment_work.xml" value="0.25" />
+        <entry key="..\:/Courses/MobileProgramming_CS473/Assignments/Shristi_Resume/app/src/main/res/layout/home.xml" value="0.1" />
+        <entry key="..\:/Courses/MobileProgramming_CS473/Assignments/Shristi_Resume/app/src/main/res/layout/menu.xml" value="0.1796875" />
+        <entry key="..\:/Courses/MobileProgramming_CS473/Assignments/Shristi_Resume/app/src/main/res/menu/menu_main.xml" value="0.1" />
       </map>
     </option>
   </component>
