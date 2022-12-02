@@ -29,13 +29,13 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="Experiences"
-                    android:textColor="#434343"
+                    android:textColor="@color/colorAccent"
                     android:textSize="24sp" />
 
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_marginTop="10dp"
+                    android:layout_marginTop="14dp"
                     android:orientation="horizontal">
 
                     <ImageView
@@ -54,18 +54,18 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="@string/company_1"
-                            android:textColor="@color/colorAccent"
-                            android:textSize="18sp" />
+                            android:textSize="18dp" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="@string/position_1" />
+                            android:text="@string/position_1"
+                            />
 
                         <RelativeLayout
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:layout_marginTop="10dp">
+                            android:layout_marginTop="14dp">
 
                             <ImageView
                                 android:id="@+id/imageview1"
@@ -89,7 +89,7 @@
                                 android:layout_marginLeft="5dp"
                                 android:layout_toRightOf="@+id/imageview1"
                                 android:text="@string/desc_project_1"
-                                android:textSize="11sp" />
+                                android:textSize="14dp" />
                         </RelativeLayout>
 
 <!--                        <TextView-->
@@ -104,7 +104,7 @@
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_marginTop="10dp"
+                    android:layout_marginTop="14dp"
                     android:orientation="horizontal">
 
                     <ImageView
@@ -126,8 +126,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="@string/company_2"
-                            android:textColor="@color/colorAccent"
-                            android:textSize="18sp" />
+                            android:textSize="18dp" />
 
                         <TextView
                             android:layout_width="wrap_content"
@@ -161,7 +160,7 @@
                                 android:layout_marginLeft="5dp"
                                 android:layout_toRightOf="@+id/imageview2"
                                 android:text="@string/desc_project_2"
-                                android:textSize="11sp" />
+                                android:textSize="14dp" />
                         </RelativeLayout>
                     </LinearLayout>
                 </LinearLayout>
@@ -190,13 +189,13 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="@string/company_3"
-                            android:textColor="@color/colorAccent"
-                            android:textSize="18sp" />
+                            android:textSize="18dp" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="@string/position_3" />
+                            android:text="@string/position_3"
+                            />
 
                         <RelativeLayout
                             android:layout_width="match_parent"
@@ -225,7 +224,7 @@
                                 android:layout_marginLeft="5dp"
                                 android:layout_toRightOf="@+id/imageview3"
                                 android:text="@string/desc_project_3"
-                                android:textSize="11sp" />
+                                android:textSize="14dp" />
                         </RelativeLayout>
 
                     </LinearLayout>

@@ -26,8 +26,8 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="Education"
-                    android:textColor="#434343"
-                    android:textSize="24sp" />
+                    android:textColor="@color/colorAccent"
+                    android:textSize="22sp" />
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -39,7 +39,7 @@
                     <ImageView
                         android:layout_width="50dp"
                         android:layout_height="50dp"
-                        android:src="@drawable/icon_eduction" />
+                        android:src="@drawable/maharishi" />
 
                     <LinearLayout
                         android:layout_width="match_parent"
@@ -51,13 +51,13 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="@string/masters_school"
-                            android:textColor="#000"
-                            android:textSize="20sp" />
+                            android:textSize="18dp" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="@string/master_skill" />
+                            android:text="@string/master_skill"
+                            android:textSize="14dp"/>
                     </LinearLayout>
                 </LinearLayout>
 
@@ -71,7 +71,7 @@
                     <ImageView
                         android:layout_width="50dp"
                         android:layout_height="50dp"
-                        android:src="@drawable/icon_eduction" />
+                        android:src="@drawable/tu_logo" />
 
                     <LinearLayout
                         android:layout_width="match_parent"
@@ -83,13 +83,13 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="@string/bachelor_school"
-                            android:textColor="#000"
-                            android:textSize="20sp" />
+                            android:textSize="18dp" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="@string/bachelor_skill" />
+                            android:text="@string/bachelor_skill"
+                            android:textSize="14dp"/>
                     </LinearLayout>
                 </LinearLayout>
 
@@ -111,15 +111,18 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="About Me"
-                    android:textColor="#434343"
-                    android:textSize="24sp" />
+                    android:textColor="@color/colorAccent"
+                    android:textSize="22sp" />
 
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
                     android:text="@string/about_me"
-                    android:textColor="#000" />
+                    android:textSize="18sp"
+                    android:lineHeight="20sp"
+                    android:justificationMode="inter_word"
+                    android:fontFamily="@font/custom_font"/>
             </LinearLayout>
         </androidx.cardview.widget.CardView>
 

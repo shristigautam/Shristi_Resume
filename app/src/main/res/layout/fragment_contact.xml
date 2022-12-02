@@ -66,7 +66,7 @@
                     android:layout_width="30dp"
                     android:layout_height="30dp"
                     android:layout_gravity="center_vertical"
-                    android:src="@drawable/icon_mall" />
+                    android:src="@drawable/icon_gmail" />
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -98,7 +98,7 @@
                     android:layout_width="30dp"
                     android:layout_height="30dp"
                     android:layout_gravity="center_vertical"
-                    android:src="@drawable/icon_website" />
+                    android:src="@drawable/icon_linkedin" />
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -109,14 +109,14 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="@string/website"
+                        android:text="@string/linkedin"
                         android:textSize="16sp" />
 
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="2dp"
-                        android:text="Website" />
+                        android:text="Linkedin" />
                 </LinearLayout>
             </LinearLayout>
 
@@ -142,13 +142,13 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="@string/facebook_profile"
-                        android:textSize="16sp" />
+                        android:textSize="16dp" />
 
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="2dp"
-                        android:text="Social Network" />
+                        android:text="Facebook" />
                 </LinearLayout>
             </LinearLayout>
 

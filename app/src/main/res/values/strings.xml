@@ -9,19 +9,19 @@
     <string name="masters_school"> Maharishi International University </string>
     <string name="master_skill"> Master in Computer Science </string>
     <string name="bachelor_school"> Tribhuvan University </string>
-    <string name="bachelor_skill">  Bachelors in Computer Science </string>
+    <string name="bachelor_skill">  Bachelors in Computer Science and Information Technology </string>
     <string name="about_me"> Experienced Mobile Application Developer with a demonstrated history of working in the information technology and services industry. Skilled in native and cross-platform Mobile Application Development(Android and iOS) using Flutter/Dart, Kotlin, Ionic. Strong engineering professional graduated from Aberdeen International College and studying Masters in Maharishi International University.</string>
 
     <!-- Work Experience -->
-    <string name="company_1"> Robert Bosch (Oct 2019 - Present) </string>
+    <string name="company_1"> Robert Bosch (Oct 2021 - Present) </string>
     <string name="position_1"> Mobile Developer </string>
     <string name="project_title_1"> Ford Diagnow </string>
-    <string name="desc_project_1"> Diagnostic App for Ford Vehicles </string>
+    <string name="desc_project_1"> Ford DiagNow provides diagnostic functionality in a convenient lightweight package enabling users to quickly address vehicle concerns without the need for a full diagnostic scan tool and laptop. </string>
 
     <string name="company_2"> Cellapp (April 2017 - Oct 2021) </string>
     <string name="position_2"> Senior Mobile Developer </string>
     <string name="project_title_2"> Smartpalika </string>
-    <string name="desc_project_2"> E-governance project for local governments of Nepal </string>
+    <string name="desc_project_2"> E-governance mobile applications for local governments of Nepal. Smartpalika aims to impact representatives, local governments and people with its smart tools and automation. </string>
 
     <string name="company_3"> Webrobo (January 2017 - March 2017) </string>
     <string name="position_3"> Mobile Development Intern </string>
@@ -31,7 +31,7 @@
     <!-- Contact -->
     <string name="phone"> +1(641) 819-2198 </string>
     <string name="email"> theshristigautam@gmail.com </string>
-    <string name="website"> https://www.linkedin.com/in/theshristigautam/ </string>
+    <string name="linkedin"> https://www.linkedin.com/in/theshristigautam/ </string>
     <string name="facebook_profile"> https://www.facebook.com/shristigautam101 </string>
 
     <!-- Home Page -->
@@ -41,7 +41,7 @@
 
     <string name="experience"> Work Experience </string>
     <string name="experience_year"> 4+ years </string>
-    <string name="experience_skill"> Flutter | Ionic | Xamarin | Angular7,8 | HTML5 | CSS3 | Bootstrap | REST API </string>
+    <string name="experience_skill"> Flutter | Ionic | Xamarin | Angular | HTML5 | CSS3 | Bootstrap | REST API </string>
 
     <string name="blog"> Blog </string>
     <string name="blog_title"> My Personal Blog </string>
