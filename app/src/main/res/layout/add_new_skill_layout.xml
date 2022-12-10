@@ -41,8 +41,29 @@
         android:inputType="text"
         android:hint="End Date"/>
 
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/title_textfield"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:hint="Position"/>
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/project_textfield"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:hint="Project Name"/>
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/project_desc_textfield"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:hint="Project Description"/>
+
     <Button
-        android:id="@+id/btn_add_new_skill"
+        android:id="@+id/btn_add_new_exp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"

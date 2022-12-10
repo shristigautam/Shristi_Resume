@@ -9,8 +9,13 @@ import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 
 class WorkAdapter(
-    private val workList: MutableList<Work> = mutableListOf(),
+    list: List<Work> = mutableListOf(),
 ) : RecyclerView.Adapter<WorkAdapter.WorkViewHolder>() {
+    var workList: MutableList<Work> = list.toMutableList()
+        set(value) {
+            field = value
+            notifyDataSetChanged()
+        }
 
     inner class WorkViewHolder(private val view: View) : RecyclerView.ViewHolder(view) {
         fun bind(work: Work) {
