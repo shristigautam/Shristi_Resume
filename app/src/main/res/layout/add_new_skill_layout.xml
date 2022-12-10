@@ -1,50 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
     android:orientation="vertical"
     android:paddingLeft="20dp"
-    android:paddingRight="20dp"
     android:paddingTop="20dp"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:paddingRight="20dp">
 
     <com.google.android.material.textfield.TextInputLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Add New Skill"
-        app:hintTextColor="@color/black"
         app:boxStrokeColor="@color/black"
         app:boxStrokeWidthFocused="2dp"
-        app:startIconTint="@color/black"
         app:endIconMode="clear_text"
         app:endIconTint="@color/black"
-        app:startIconDrawable="@drawable/icon_add_skill">
+        app:hintTextColor="@color/black"
+        app:startIconTint="@color/black">
 
         <com.google.android.material.textfield.TextInputEditText
-            android:id="@+id/et_add_new_skill"
+            android:id="@+id/company_textfield"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:inputType="text" />
+            android:inputType="text"
+            android:hint="Company Name"
+            />
     </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/from_textfield"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:hint="Start Date"/>
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/to_textfield"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:hint="End Date"/>
 
     <Button
         android:id="@+id/btn_add_new_skill"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
-        android:background="@color/colorAccent"
-        android:text="Add New"
         android:layout_marginBottom="20dp"
-        android:textColor="@color/white"/>
+        android:background="@color/colorAccent"
+        android:text="Add"
+        android:textColor="@color/white" />
 
     <Button
         android:id="@+id/btn_cancel"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
         android:background="@color/colorPrimary"
         android:text="Cancel"
-        android:layout_marginBottom="20dp"
-        android:textColor="@color/white"/>
+        android:textColor="@color/white" />
 
 </LinearLayout>

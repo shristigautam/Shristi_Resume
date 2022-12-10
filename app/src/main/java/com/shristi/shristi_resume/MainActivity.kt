@@ -1,6 +1,7 @@
 package com.shristi.shristi_resume
 
 import android.annotation.SuppressLint
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.Menu
@@ -45,7 +46,20 @@ class MainActivity : AppCompatActivity() {
     }
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
-        Toast.makeText(this,item.title.toString(), Toast.LENGTH_SHORT).show()
+        val sharedPref = getSharedPreferences(Constant.SHARED_PREF_NAME, 0)
+        val editor = sharedPref.edit()
+        editor.putBoolean(Constant.IS_LOGGED_IN, false)
+        editor.apply()
+
+        gotoLoginActivity()
+
+        Toast.makeText(this, "Successfully logged out!", Toast.LENGTH_SHORT).show()
         return super.onOptionsItemSelected(item)
+
+    }
+
+    private fun gotoLoginActivity() {
+        val intent = Intent(this, LoginActivity::class.java)
+        startActivity(intent)
     }
 }
