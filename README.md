@@ -3,9 +3,6 @@
 
 ** This is a portfolio app that I developed as an academic project for CD-473 Mobile Device Programming at MIU. **
 
-*Note: email shristigautam@miu.edu and password “Shristi@123” have been initially saved in Shared Preferences, so please use these credentials to log in and check the app.
-While developing this project, I have used Fragments, Intents, Menus, Tab Layout, Shared Preferences, Material Design, Swipe View, WebView and many other things learned in class.
-
 ### 1)	Login Activity with Validation from Shared Preference:
 ![Login](https://github.com/shristigautam/Shristi_Resume/blob/master/app/src/main/res/drawable-v24/images/login.PNG)
 
