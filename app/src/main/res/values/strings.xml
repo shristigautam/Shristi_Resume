@@ -50,11 +50,19 @@
     <string name="strength"> Strengths </string>
     <string name="strength_title"> Personal Strength </string>
     <string name="strength_desc"> I am a good communicator and get along with people very well. </string>
+    <string name="strength_desc_second"> I am very passionate and love my work. </string>
 
-    <string name="personal">  Contact </string>
+
+    <string name="contact">  Contact </string>
     <string name="personal_title"> Personal Info </string>
     <string name="personal_desc"> +1(641) 819-2198 | theshristigautam@gmail.com </string>
+    <string name="hobby"> Hobby </string>
+    <string name="personal_hobby"> Personal Hobby </string>
+    <string name="hobby_details">In my spare time, I love cooking traditional Nepali food and feeding my friends and family.</string>
+
+
     <string name="title_activity_web">WebActivity</string>
+
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
     <string name="second_fragment_label">Second Fragment</string>

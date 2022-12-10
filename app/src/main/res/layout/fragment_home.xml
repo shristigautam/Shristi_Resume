@@ -123,57 +123,6 @@
             </LinearLayout>
         </LinearLayout>
 
-<!--        <LinearLayout-->
-<!--            android:id="@+id/blog"-->
-<!--            android:paddingRight="20dp"-->
-<!--            android:paddingLeft="20dp"-->
-<!--            android:paddingTop="10dp"-->
-<!--            android:layout_below="@id/experience"-->
-<!--            android:layout_width="match_parent"-->
-<!--            android:layout_height="wrap_content"-->
-<!--            android:orientation="vertical">-->
-
-<!--            <TextView-->
-<!--                android:id="@+id/tv_blog"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                android:text="@string/blog"-->
-<!--                android:textColor="#434343"-->
-<!--                android:textSize="24sp" />-->
-
-<!--            <LinearLayout-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                android:layout_marginTop="10dp"-->
-<!--                android:orientation="horizontal">-->
-
-<!--                <ImageView-->
-<!--                    android:layout_width="30dp"-->
-<!--                    android:layout_height="30dp"-->
-<!--                    android:layout_gravity="center_vertical"-->
-<!--                    android:src="@drawable/icon_blog" />-->
-
-<!--                <LinearLayout-->
-<!--                    android:layout_width="match_parent"-->
-<!--                    android:layout_height="wrap_content"-->
-<!--                    android:layout_marginLeft="10dp"-->
-<!--                    android:orientation="vertical">-->
-
-<!--                    <TextView-->
-<!--                        android:layout_width="wrap_content"-->
-<!--                        android:layout_height="wrap_content"-->
-<!--                        android:text="@string/blog_title"-->
-<!--                        android:textSize="16sp" />-->
-
-<!--                    <TextView-->
-<!--                        android:layout_width="wrap_content"-->
-<!--                        android:layout_height="wrap_content"-->
-<!--                        android:layout_marginTop="2dp"-->
-<!--                        android:text="@string/blog_desc" />-->
-<!--                </LinearLayout>-->
-<!--            </LinearLayout>-->
-<!--        </LinearLayout>-->
-
         <LinearLayout
             android:id="@+id/strength"
             android:paddingRight="20dp"
@@ -187,7 +136,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/strength"
+                android:text="@string/hobby"
                 android:textColor="#434343"
                 android:textSize="24sp" />
 
@@ -212,14 +161,14 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="@string/strength_title"
+                        android:text="@string/personal_hobby"
                         android:textSize="16sp" />
 
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="2dp"
-                        android:text="@string/strength_desc" />
+                        android:text="@string/hobby_details" />
                 </LinearLayout>
             </LinearLayout>
         </LinearLayout>
@@ -238,7 +187,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/personal"
+                android:text="@string/contact"
                 android:textColor="#434343"
                 android:textSize="24sp" />
 
