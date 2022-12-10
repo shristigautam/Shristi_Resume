@@ -30,9 +30,7 @@ class HomeFragment : Fragment() {
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-
         list = ArrayList<Skill>()
-
         val view = inflater.inflate(R.layout.fragment_home, container, false)
 
         view.fab_add.setOnClickListener {

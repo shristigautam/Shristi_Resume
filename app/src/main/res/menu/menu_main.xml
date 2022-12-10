@@ -7,26 +7,4 @@
         android:orderInCategory="100"
         android:title="Setting"
         app:showAsAction="never" />
-    <item
-        android:id="@+id/action_home"
-        android:orderInCategory="100"
-        android:title="Home"
-        app:showAsAction="never" />
-
-    <item
-        android:id="@+id/action_aboutme"
-        android:orderInCategory="100"
-        android:title="AboutMe"
-        app:showAsAction="never" />
-
-    <item
-        android:id="@+id/action_work"
-        android:orderInCategory="100"
-        android:title="Work"
-        app:showAsAction="never" />
-    <item
-        android:id="@+id/action_contact"
-        android:orderInCategory="100"
-        android:title="Contact"
-        app:showAsAction="never" />
 </menu>

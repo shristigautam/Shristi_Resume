@@ -31,7 +31,7 @@
     <!-- Contact -->
     <string name="phone"> +1(641) 819-2198 </string>
     <string name="email"> theshristigautam@gmail.com </string>
-    <string name="linkedin"> https://www.linkedin.com/in/theshristigautam/ </string>
+    <string name="linkedin"> https://www.linkedin.com/in/theshristigautam</string>
     <string name="facebook_profile"> https://www.facebook.com/shristigautam101 </string>
 
     <!-- Home Page -->
@@ -54,8 +54,15 @@
     <string name="personal">  Contact </string>
     <string name="personal_title"> Personal Info </string>
     <string name="personal_desc"> +1(641) 819-2198 | theshristigautam@gmail.com </string>
+    <string name="title_activity_web">WebActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
 
-
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
 
 
 </resources>

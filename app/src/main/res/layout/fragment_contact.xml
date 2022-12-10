@@ -1,7 +1,7 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content"
+    android:layout_height="match_parent"
     android:orientation="vertical">
 
     <androidx.cardview.widget.CardView
@@ -37,6 +37,7 @@
                     android:src="@drawable/icon_call" />
 
                 <LinearLayout
+                    android:id="@+id/mobile"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="10dp"
@@ -46,17 +47,19 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="@string/phone"
-                        android:textSize="16sp" />
+                        android:textSize="18dp"/>
 
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginTop="2dp"
+                        android:textSize="16dp"
+                        android:layout_marginTop="4dp"
                         android:text="Mobile" />
                 </LinearLayout>
             </LinearLayout>
 
             <LinearLayout
+                android:id="@+id/gmail"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
@@ -78,17 +81,19 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="@string/email"
-                        android:textSize="16sp" />
+                        android:textSize="18dp" />
 
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginTop="2dp"
+                        android:layout_marginTop="4dp"
+                        android:textSize="16dp"
                         android:text="Email" />
                 </LinearLayout>
             </LinearLayout>
 
             <LinearLayout
+                android:id="@+id/linkedin"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
@@ -110,17 +115,19 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="@string/linkedin"
-                        android:textSize="16sp" />
+                        android:textSize="18dp" />
 
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginTop="2dp"
+                        android:textSize="16dp"
+                        android:layout_marginTop="4dp"
                         android:text="Linkedin" />
                 </LinearLayout>
             </LinearLayout>
 
             <LinearLayout
+                android:id="@+id/facebook"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
@@ -142,12 +149,13 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="@string/facebook_profile"
-                        android:textSize="16dp" />
+                        android:textSize="18dp" />
 
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginTop="2dp"
+                        android:textSize="16dp"
+                        android:layout_marginTop="4dp"
                         android:text="Facebook" />
                 </LinearLayout>
             </LinearLayout>
