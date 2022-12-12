@@ -1,7 +1,7 @@
 # Resume App
 
 
-** This is a portfolio app that I developed as an academic project for CD-473 Mobile Device Programming at MIU. **
+** This is a portfolio app that I developed as an academic project for CS-473 Mobile Device Programming at MIU. **
 
 ### 1)	Login Activity with Validation from Shared Preference:
 ![Login](https://github.com/shristigautam/Shristi_Resume/blob/master/app/src/main/res/drawable-v24/images/login.PNG)
